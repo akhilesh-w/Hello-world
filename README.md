@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Computer Science Undergraduate from India.</h3>
 <h3 align="center">And I’m interested in web development💻</h3>
 
-<h2 align="center"><img alt="GIF" src="https://images.app.goo.gl/PQgoXZBUDBmGbDYMA" width="65%" height="auto" /></h2>
+<h2 align="center"><img alt="GIF" src="img/hello.gif" width="65%" height="auto" /></h2>
 
 ## Connect with me:
 ### <img src="/img/gmail.png" width=15px height=15px> akhi23waghmare@gmail.com 
